@@ -1,0 +1,7 @@
+{
+  "name": "ClearVoice Recorder",
+  "description": "Record or upload audio, remove background noise, resample to 8kHz, and get AI-powered transcriptions with spectrogram visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
